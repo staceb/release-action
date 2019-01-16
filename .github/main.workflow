@@ -1,4 +1,4 @@
-workflow "New workflow" {
+workflow "New workflow 2" {
   on = "release"
   resolves = ["Shell"]
 }
